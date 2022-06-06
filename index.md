@@ -53,7 +53,7 @@ G-> grenade
 
 ## Trailer
 
-iframe width="480" height="350" src={https://www.youtube.com/watch?v=TbLepWnHUWs&t=1s&ab_channel=JoseAntonioTurIzquierdohttps://www.youtube.com/watch?v=TbLepWnHUWs&t=1s&ab_channel=JoseAntonioTurIzquierdo}
+<iframe width="740" height="590" src="[https://www.youtube.com/embed/yBFzOEv0snY](https://www.youtube.com/watch?v=TbLepWnHUWs)" frameborder="0" allowfullscreen></iframe>
 
 ### Shortcuts
 
