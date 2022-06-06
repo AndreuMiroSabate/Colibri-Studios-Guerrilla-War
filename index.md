@@ -1,3 +1,10 @@
+# _**Guerrilla War**_
+
+![guerrilla](https://user-images.githubusercontent.com/23531692/156944115-7de1f272-1af5-4218-9c28-d48aab184781.png)
+
+### Description
+Guerrilla War is a game produced by SNK at 1987 for arcade. In this shooter you control a rebel commandos that raid an unnamed island controlled by a cruel dictator, with the objective to free that island of the tirany of that dictator. You will have to make your way to the final of the island killing your enemies and saving your allies.
+
 # Colibri Studios
 
 ![team](https://user-images.githubusercontent.com/23531692/156944408-522f9c37-daa4-47f8-83b1-f4fc7e1b2853.png)
