@@ -53,7 +53,7 @@ G-> grenade
 
 ## Trailer
 
-<iframe width="740" height="590" src="[https://www.youtube.com/embed/yBFzOEv0snY](https://www.youtube.com/watch?v=TbLepWnHUWs)" frameborder="0" allowfullscreen></iframe>
+<iframe width="740" height="590" src="https://www.youtube.com/watch?v=TbLepWnHUWs" frameborder="0" allowfullscreen></iframe>
 
 ### Shortcuts
 
