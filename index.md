@@ -51,7 +51,7 @@ Space-> Shoot
 
 G-> grenade
 
-![video](https://www.youtube.com/watch?v=TbLepWnHUWs&t=1s)
+<iframe width="740" height="590" src="https://www.youtube.com/watch?v=TbLepWnHUWs&t=1s" frameborder="0" allowfullscreen></iframe>
 
 ### Shortcuts
 
