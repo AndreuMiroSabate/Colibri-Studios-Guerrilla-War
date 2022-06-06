@@ -52,7 +52,9 @@ Space-> Shoot
 G-> grenade
 
 ## Trailer
-<iframe width="740" height="590" src="https://www.youtube.com/watch?v=TbLepWnHUWs&t=1s&ab_channel=JoseAntonioTurIzquierdo" frameborder="0" allowfullscreen></iframe>
+<a id="gameplay-video" class="anchor" href="#gameplay-video" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Gameplay Video</h3>
+
+<p><iframe width="480" height="350" src="https://www.youtube.com/watch?v=TbLepWnHUWs&t=1s&ab_channel=JoseAntonioTurIzquierdohttps://www.youtube.com/watch?v=TbLepWnHUWs&t=1s&ab_channel=JoseAntonioTurIzquierdo" 
 
 ### Shortcuts
 
