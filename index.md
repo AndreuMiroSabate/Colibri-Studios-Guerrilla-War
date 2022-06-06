@@ -70,3 +70,12 @@ X-> Shoot
 A-> Grenade
 
 (It's based on a Xbox Controller)
+
+
+## Link to Github: https://github.com/daniAtalaya/GuerrillaWar
+
+## Download the latest version: https://github.com/daniAtalaya/GuerrillaWar/releases/tag/Guerrilla
+
+## If you want to know more: https://github.com/daniAtalaya/GuerrillaWar/wiki
+
+### Tribute by Colibri Studios
